@@ -1,0 +1,3 @@
+.idea/
+model/model_phishing.pkl
+data/phishing_email.csv
